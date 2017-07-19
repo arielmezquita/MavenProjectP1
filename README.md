@@ -5,8 +5,11 @@ Luego de la realizacion de un levantamiento de una de las funcionalidades de un 
 
 Entidades:
 -Persona
+
 -Empleado
+
 -Catalogo
+
 -Departamento
 
 Las funcionalidades de este Sistema tiene incluido lo siguiente:
